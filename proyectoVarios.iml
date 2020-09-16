@@ -1,0 +1,4579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/activation-1.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/adm-cliente-4.18.1-SNAPSHOT.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/annotations-2.0.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/ant-1.7.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/ant-launcher-1.7.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/antlr-2.7.6.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/antlr-runtime-3.5.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/aopalliance-1.0.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/apache-mime4j-core-0.7.2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/aspectjrt-1.7.0.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/aspectjtools-1.7.4.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/aspectjweaver-1.7.4.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/atmosphere-runtime-2.0.4-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/auditoria-archivos-1.4.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/auditoria-cliente-2.9.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/auditoria-log-modelo-1.10.4-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/aud-recepcion-core-1.0.2-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/autorizaciones-cliente-4.0.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/autorizaciones-core-4.0.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/autorizaciones-utilitario-web-4.0.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/avalon-framework-api-4.3.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/avalon-framework-impl-4.2.0.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/axiom-api-1.2.13.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/axiom-impl-1.2.13.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/axis-1.4.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/axis2-adb-1.6.2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/axis2-kernel-1.6.2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/axis2-transport-http-1.6.2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/axis2-transport-local-1.6.2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/bantonia.moodlerest-2.0.2-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/barbecue-1.5-beta1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/barcode4j-2.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-anim-1.7.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-awt-util-1.7.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-bridge-1.7.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-css-1.7.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-dom-1.7.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-ext-1.7.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-extension-1.7.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-gvt-1.7.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-js-1.7.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-parser-1.7.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-script-1.7.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-svg-dom-1.7.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-svggen-1.7.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-transcoder-1.7.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-util-1.7.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-xml-1.7.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/bcmail-jdk14-1.38.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/bcmail-jdk14-138.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/bcprov-jdk14-1.38.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/bcprov-jdk14-138.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/bctsp-jdk14-1.38.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/bi-modelo-1.8.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/bridge-method-annotation-1.13.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/bsf-2.3.0.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/bsh-2.0b4.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/build-helper-maven-plugin-1.8.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/c3p0-0.9.1.2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/classworlds-1.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/codegen-0.6.8.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/comm-cmp-compress-1.0.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-beanutils-1.8.3.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-chain-1.2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-cli-1.0.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-codec-1.5.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-collections-3.2.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-collections4-4.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-compress-1.8.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-digester-1.8.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-discovery-0.4.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/commonservices-7.0.1.0.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-exec-1.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-fileupload-1.2.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-httpclient-3.1-rc1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-io-1.3.2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-io-2.5.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-jexl-1.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-lang-2.4.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-lang3-3.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-logging-1.1.3.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-logging-api-1.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-net-3.3.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-validator-1.3.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/concurrentlinkedhashmap-lru-1.4.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/connector-api-1.5.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/core-7.0.1.0.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/corp-aplicacion-1.7.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/corp-cierre-1.7.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/corp-cliente-2.60.6-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/corp-cliente-etiquetado-3.4.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/corp-cliente-impresion-4.0.2-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/corp-cliente-sistar-ws-2.4.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/corp-core-2.60.6-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/corp-etiquetado-3.4.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/corp-etiquetado-util-web-3.4.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/corp-ftp-1.9.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/corp-impresion-core-4.0.2-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/corp-impresion-web-util-4.0.2-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/corp-utilitario-corp-web-2.60.5-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/corp-utilitario-plantillas-1.4.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/cp-cobro-proveedores-core-1.21.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/cp-convenio-volumenes-core-1.26.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/credimax-aplicacion-1.19.1-SNAPSHOT.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/credimax-cliente-1.19.1-SNAPSHOT.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/credimax-integracion-ws-cliente-1.4.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/credimax-integracion-ws-core-1.4.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/datetime-1.0.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/db2-jcc-1.3.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/dom4j-1.6.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/dom4j-1.6.1-hudson-3.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/doxia-sink-api-1.0-alpha-7.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/drools-compiler-6.3.0.Final-redhat-5.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/drools-core-6.3.0.Final-redhat-5.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/dsl-kLibs-1.0.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/dsws-bicatalog-14.1.1.1036.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/dsws-biplatform-14.1.1.1036.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/dsws-common-14.1.1.1036.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/dsws-reportengine-12.3.0.601.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/dsws-saveservice-14.1.8.2168.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/dsws-session-14.1.1.1036.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/ecj-4.5.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/edtFTPj-2.4.0.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/el-api-2.2.1-b04.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/elearning.services-3.9.0-SNAPSHOT.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/el-impl-2.2.1-b05.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/engine.io-client-1.0.0.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/EWSJavaAPI-1.2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/flux-alerts-client-1.3.15-SNAPSHOT.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/flux-alerts-core-1.3.15-SNAPSHOT.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fontbox-0.1.0.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fontbox-1.7.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fop-0.95.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/freemarker-2.3.23.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-acceso-datos-2.1.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-alert-1.1.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-alert-client-1.1.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-aplicacion-1.16.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-auditoria-cliente-2.3.3-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-auditoria-core-2.3.3-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-cliente-2.35.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-cliente-sri-1.7.4-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-common-ws-1.0.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-core-2.35.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-descuentos-venta-client-1.0.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-encriptacion-1.4.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-encriptacion-smx-1.0.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-generacion-exportacion-1.7.4-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-integracion-core-2.0.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-integracion-data-queue-1.4.2-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-log-util-1.4.2-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-message-push-movil-2.3.3-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-pom-validator-1.0.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-remote-util-1.2.14-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-session-audit-client-1.4.4-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-session-audit-core-1.4.4-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-session-audit-web-util-1.4.4-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-sms-core-1.4.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-utilitario-aplicacion-1.7.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-utilitario-componentes-1.2.5-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-utilitario-dao-1.12.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-utilitario-jsf-2.7.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-utilitario-nosql-2.0.5-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-utilitario-recursos-2.3.9-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-utilitario-reporte-1.5.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-utilitario-sri-1.7.4-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-utilitario-web-1.1.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-utilitario-xml-1.4.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-zebra-zpl-1.1.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/geolatte-geom-0.13.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/geronimo-activation_1.1_spec-1.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/geronimo-javamail_1.4_spec-1.7.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/geronimo-jta_1.1_spec-1.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/geronimo-stax-api_1.0_spec-1.0.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/geronimo-ws-metadata_2.0_spec-1.1.2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/gson-2.2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/guava-18.0.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/h2-1.4.196.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/hamcrest-core-1.3.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/headers-7.0.1.0.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/hibernate-core-3.6.1.Final.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/hibernate-jpa-2.0-api-1.0.0.Final.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/hibernate-validator-4.2.0.Final.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/HikariCP-java7-2.4.9.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/httpclient-4.5.2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/httpcore-4.4.4.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/httpmime-4.3.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/icepdf-core-5.0.7.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/icepdf-viewer-5.0.7.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/integracion-cmkonector-1.0.2-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/integracion-connector-1.0.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/integracion-jde-cliente-2.2.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/integration-data-queue-1.8.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/interfaz-jde-client-1.2.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/interfaz-jde-core-1.2.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/itext-1.3.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/itext-2.1.7.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/itextpdf-5.5.0.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jackson-annotations-2.3.2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jackson-core-2.3.2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jackson-core-asl-1.9.13.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jackson-databind-2.3.2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jackson-dataformat-cbor-2.8.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jackson-dataformat-smile-2.8.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jackson-dataformat-yaml-2.8.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jackson-datatype-hibernate3-2.3.2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jackson-mapper-asl-1.9.13.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jakarta-regexp-1.4.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jarimbak-buscador-1.0.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jarimbak-core-1.7.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jarimbak-reader-1.0.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jarimbak-util-1.7.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jasperreports-3.5.3.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/javassist-3.12.1.GA.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/javassist-3.18.2-GA.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/javax.inject-1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jaxb-api-2.2.5.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jaxb-api-2.2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jaxb-impl-2.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jaxen-1.1.3.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jaxrpc-api-1.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jboss-jaxrpc-api_1.1_spec-1.0.1.Final.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jboss-servlet-api_3.0_spec-1.0.1.Final.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jcifs-1.3.17.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jcl-over-slf4j-1.7.25.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jcommon-1.0.15.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jdo-api-3.0.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jdom-1.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jdtcore-3.1.0.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jempbox-0.2.0.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jempbox-1.7.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jettison-1.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jfreechart-1.0.12.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jjwt-0.5.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jmqi-7.0.1.0.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/joda-time-2.9.7.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jooq-3.1.0.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jsch-0.1.27.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/json-20080701.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/json-simple-1.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jsp-api-2.1.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jsr305-1.3.9.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jsr311-api-1.0.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jstl-1.2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jstl-impl-1.2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jt400-9.3.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jta-1.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jtidy-4aug2000r7-dev.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jtopen-8.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jtopen-native-6.0.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jts-1.13.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/junit-4.12.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jwt.utils-3.5.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jxl-2.6.10.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/jxls-core-0.9.9.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/kie-api-6.3.0.Final-redhat-5.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/kie-internal-6.3.0.Final-redhat-5.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/log4j-1.2.17.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/logback-classic-1.0.13.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/logback-core-1.0.13.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/lombok-1.16.20.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/mail-1.4.2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/mailer-1.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-artifact-2.0.6.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-artifact-manager-2.0.6.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-core-2.0.6.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-error-diagnostics-2.0.6.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-model-2.0.6.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-monitor-2.0.6.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-plugin-api-2.0.6.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-plugin-descriptor-2.0.6.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-plugin-parameter-documenter-2.0.6.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-plugin-registry-2.0.6.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-profile-2.0.6.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-project-2.0.6.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-reporting-api-2.0.6.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-repository-metadata-2.0.6.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-settings-2.0.6.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-administracion-1.29.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-articulos-1.30.2-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-bodegas-1.27.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-cliente-integracion-loyalty-1.21.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-cliente-inventarioV2-1.26.2-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-cliente-loyalty-ws-1.21.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-cliente-sic-1.29.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-cliente-sistar-1.2.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-controlcaducados-1.8.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-control-rutas-1.20.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-despacho-1.14.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-fruver-1.24.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-gestion-precios-1.22.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-integraciones-1.29.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-integracion-loyalty-1.21.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-inventariosV2-1.26.2-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-minimosmaximos-1.8.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-movil-bodega-1.27.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-movil-cliente-1.27.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-novedades-1.14.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-ordenes-compra-1.27.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-pedido-asistido-1.27.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-pedido-unos-1.19.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-procesamiento-ventas-1.14.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-produccion-empacado-1.12.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-proveedores-1.20.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-recarga-cupones-1.23.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-recepcion-despacho-1.4.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-recibido-no-contabilizado-1.26.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-recipientes-1.24.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-registroventas-1.10.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-registroventas-mig-1.10.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-sic-integracion-util-1.29.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-utilitario-integracion-loyalty-jsf-1.21.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-utilitario-jsf-1.28.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-ventas-terceros-1.2.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/mensajeria-core-1.8.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/mensajeria-taglib-1.0.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/MITyCLibAPI-1.1.7.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/MITyCLibCert-1.1.7.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/MITyCLibXADES-1.1.7.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/modelmapper-1.1.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/mvel2-2.2.7.Final-redhat-1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/mysema-commons-lang-0.2.4.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/neethi-3.0.2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/neo4j-cypher-compiler-2.1-2.1.2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/okhttp-3.8.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/okio-1.13.0.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/ooxml-schemas-1.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/opencsv-2.3.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/org.apache.commons.lang-2.6.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/org.apache.commons.logging-1.1.3.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/org.apache.servicemix.bundles.javax-inject-1_2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/org.apache.servicemix.bundles.xerces-2.11.0_1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/orientdb-client-2.2.11.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/orientdb-core-2.2.11.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/orientdb-object-2.2.11.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/oro-2.0.8.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/os4690-1.0.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/parboiled-core-1.1.6.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/parboiled-scala_2.10-1.1.6.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/pdfbox-0.7.3.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/pdfbox-1.7.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/pdf-renderer-1.0.5.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/plexus-container-default-1.0-alpha-9-stable-1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/plexus-interactivity-api-1.0-alpha-4.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/plexus-utils-1.0.2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/plexus-utils-1.5.8.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/poi-3.13.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/poi-ooxml-3.13.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/poi-ooxml-schemas-3.13.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/ppago-jde-2.0.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/protobuf-java-2.5.0.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/quartz-1.6.5.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/querydsl-apt-4.1.4.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/querydsl-codegen-4.1.4.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/querydsl-core-4.1.4.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/querydsl-jpa-4.1.4.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/querydsl-spatial-4.1.3.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/querydsl-sql-4.1.4.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/querydsl-sql-codegen-4.1.3.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/querydsl-sql-spatial-4.1.3.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/reflections-0.9.9.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/scala-library-2.10.4.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/sicmer-aplicacion-2.0.0-SNAPSHOT.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/sif-cliente-1.39.2-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/sif-cliente-jde-1.6.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/sif-factura-utilitario-cliente-1.4.5-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/sif-factura-utilitario-core-1.4.5-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/sim-cliente-1.23.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/sim-core-1.23.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/sispe-fwk-administracion-client-1.1.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/sispe-fwk-administracion-core-1.1.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/SizeOf-0.2.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/slf4j-api-1.7.7.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/slf4j-log4j12-1.7.7.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/snakeyaml-1.15.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/socket.io-client-1.0.0.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-aop-3.2.15.RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-aspects-3.2.15.RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-batch-core-2.2.1.RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-batch-excel-0.5.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-batch-infrastructure-2.2.1.RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-beans-3.2.15.RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-context-3.2.15.RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-context-support-3.2.15.RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-core-3.2.15.RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-data-commons-1.13.4.RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-expression-3.2.15.RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-jdbc-3.2.15.RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-jms-3.1.0.RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-orm-3.2.15.RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-oxm-3.2.15.RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-retry-1.1.0.RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-security-config-4.0.4.RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-security-core-4.0.4.RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-security-web-4.0.4.RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-test-3.2.15.RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-tx-3.2.15.RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-web-3.2.15.RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-webmvc-3.2.15.RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-webmvc-portlet-3.1.0.RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-ws-core-2.1.4.RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-xml-2.1.4.RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/sqljdbc3-2008-3.0.1301.101.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/standard-1.0.2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/stax-api-1.0.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/stp-tareas-programadas-core-1.11.3-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/stp-tareas-programadas-utilitario-calendarizacion-1.2.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/stp-web-util-1.11.3-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/string-1.0.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/struts-core-1.3.8.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/struts-el-1.3.8.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/struts-extras-1.3.8.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/struts-mailreader-dao-1.3.8.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/struts-scripting-1.3.8.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/struts-taglib-1.3.8.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/struts-tiles-1.3.8.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/tcrm-client-1.1.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/tcrm-core-1.1.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/tdgssconfig-16.20.00.06.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/telnetd-x-2.1.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/terajdbc4-16.20.00.06.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/tlog-cliente-1.6.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/tlog-core-1.6.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/tlog-proceso-sri-1.0.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/tlog-ventas-1.6.1-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/tracelog-14.2.3.r2351_v20170310.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/utils-1.07.00.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/validation-api-1.0.0.GA.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/vpi-cliente-1.0.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/wagon-file-1.0-beta-2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/wagon-http-lightweight-1.0-beta-2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/wagon-http-shared-1.0-beta-2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/wagon-provider-api-1.0-beta-2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/wagon-ssh-1.0-beta-2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/wagon-ssh-common-1.0-beta-2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/wagon-ssh-external-1.0-beta-2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/woden-api-1.0M9.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/woden-impl-commons-1.0M9.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/woden-impl-dom-1.0M9.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/workflow-integration-1.0.0-RELEASE.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/wsdl4j-1.6.2.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/wstx-asl-3.2.9.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/xalan-2.6.0.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/xercesImpl-2.11.0.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/xml-apis-1.4.01.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/xml-apis-ext-1.3.04.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/xmlbeans-2.6.0.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/xmlgraphics-commons-1.3.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/xmlpull-1.1.3.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/XmlSchema-1.4.7.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/xmlsec-1.4.2-ADSI-1.1.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/xpp3_min-1.1.4c.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/xpp3-1.1.6.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/xstream-1.4.7.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/kettle-core-6.0.1.0-383.jar!/" />
+    <libelement value="jar://D:/Backups/EAR's y JAR's/jarDependencias/kettle-engine-6.0.1.0-383.jar!/" />
+    <src_description expected_position="1">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="1" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="activation-1.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/activation-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="adm-cliente-4.18.1-SNAPSHOT.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/adm-cliente-4.18.1-SNAPSHOT.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="annotations-2.0.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/annotations-2.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ant-1.7.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/ant-1.7.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ant-launcher-1.7.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/ant-launcher-1.7.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="antlr-2.7.6.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/antlr-2.7.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="antlr-runtime-3.5.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/antlr-runtime-3.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aopalliance-1.0.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/aopalliance-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="apache-mime4j-core-0.7.2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/apache-mime4j-core-0.7.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aspectjrt-1.7.0.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/aspectjrt-1.7.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aspectjtools-1.7.4.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/aspectjtools-1.7.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aspectjweaver-1.7.4.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/aspectjweaver-1.7.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="atmosphere-runtime-2.0.4-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/atmosphere-runtime-2.0.4-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="auditoria-archivos-1.4.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/auditoria-archivos-1.4.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="auditoria-cliente-2.9.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/auditoria-cliente-2.9.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="auditoria-log-modelo-1.10.4-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/auditoria-log-modelo-1.10.4-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aud-recepcion-core-1.0.2-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/aud-recepcion-core-1.0.2-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="autorizaciones-cliente-4.0.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/autorizaciones-cliente-4.0.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="autorizaciones-core-4.0.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/autorizaciones-core-4.0.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="autorizaciones-utilitario-web-4.0.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/autorizaciones-utilitario-web-4.0.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="avalon-framework-api-4.3.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/avalon-framework-api-4.3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="avalon-framework-impl-4.2.0.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/avalon-framework-impl-4.2.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="axiom-api-1.2.13.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/axiom-api-1.2.13.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="axiom-impl-1.2.13.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/axiom-impl-1.2.13.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="axis-1.4.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/axis-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="axis2-adb-1.6.2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/axis2-adb-1.6.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="axis2-kernel-1.6.2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/axis2-kernel-1.6.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="axis2-transport-http-1.6.2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/axis2-transport-http-1.6.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="axis2-transport-local-1.6.2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/axis2-transport-local-1.6.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bantonia.moodlerest-2.0.2-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/bantonia.moodlerest-2.0.2-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="barbecue-1.5-beta1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/barbecue-1.5-beta1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="barcode4j-2.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/barcode4j-2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="batik-anim-1.7.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-anim-1.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="batik-awt-util-1.7.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-awt-util-1.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="batik-bridge-1.7.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-bridge-1.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="batik-css-1.7.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-css-1.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="batik-dom-1.7.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-dom-1.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="batik-ext-1.7.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-ext-1.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="batik-extension-1.7.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-extension-1.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="batik-gvt-1.7.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-gvt-1.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="batik-js-1.7.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-js-1.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="batik-parser-1.7.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-parser-1.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="batik-script-1.7.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-script-1.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="batik-svg-dom-1.7.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-svg-dom-1.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="batik-svggen-1.7.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-svggen-1.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="batik-transcoder-1.7.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-transcoder-1.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="batik-util-1.7.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-util-1.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="batik-xml-1.7.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/batik-xml-1.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bcmail-jdk14-1.38.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/bcmail-jdk14-1.38.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bcmail-jdk14-138.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/bcmail-jdk14-138.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bcprov-jdk14-1.38.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/bcprov-jdk14-1.38.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bcprov-jdk14-138.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/bcprov-jdk14-138.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bctsp-jdk14-1.38.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/bctsp-jdk14-1.38.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bi-modelo-1.8.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/bi-modelo-1.8.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bridge-method-annotation-1.13.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/bridge-method-annotation-1.13.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bsf-2.3.0.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/bsf-2.3.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bsh-2.0b4.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/bsh-2.0b4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="build-helper-maven-plugin-1.8.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/build-helper-maven-plugin-1.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="c3p0-0.9.1.2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/c3p0-0.9.1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="classworlds-1.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/classworlds-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="codegen-0.6.8.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/codegen-0.6.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="comm-cmp-compress-1.0.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/comm-cmp-compress-1.0.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-beanutils-1.8.3.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-beanutils-1.8.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-chain-1.2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-chain-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-cli-1.0.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-cli-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-codec-1.5.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-codec-1.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-collections-3.2.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-collections-3.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-collections4-4.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-collections4-4.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-compress-1.8.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-compress-1.8.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-digester-1.8.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-digester-1.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-discovery-0.4.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-discovery-0.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commonservices-7.0.1.0.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/commonservices-7.0.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-exec-1.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-exec-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-fileupload-1.2.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-fileupload-1.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-httpclient-3.1-rc1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-httpclient-3.1-rc1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-io-1.3.2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-io-1.3.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-io-2.5.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-io-2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-jexl-1.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-jexl-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang-2.4.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-lang-2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang3-3.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-lang3-3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-logging-1.1.3.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-logging-1.1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-logging-api-1.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-logging-api-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-net-3.3.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-net-3.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-validator-1.3.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/commons-validator-1.3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="concurrentlinkedhashmap-lru-1.4.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/concurrentlinkedhashmap-lru-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="connector-api-1.5.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/connector-api-1.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="core-7.0.1.0.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/core-7.0.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="corp-aplicacion-1.7.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/corp-aplicacion-1.7.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="corp-cierre-1.7.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/corp-cierre-1.7.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="corp-cliente-2.60.6-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/corp-cliente-2.60.6-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="corp-cliente-etiquetado-3.4.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/corp-cliente-etiquetado-3.4.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="corp-cliente-impresion-4.0.2-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/corp-cliente-impresion-4.0.2-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="corp-cliente-sistar-ws-2.4.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/corp-cliente-sistar-ws-2.4.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="corp-core-2.60.6-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/corp-core-2.60.6-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="corp-etiquetado-3.4.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/corp-etiquetado-3.4.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="corp-etiquetado-util-web-3.4.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/corp-etiquetado-util-web-3.4.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="corp-ftp-1.9.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/corp-ftp-1.9.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="corp-impresion-core-4.0.2-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/corp-impresion-core-4.0.2-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="corp-impresion-web-util-4.0.2-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/corp-impresion-web-util-4.0.2-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="corp-utilitario-corp-web-2.60.5-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/corp-utilitario-corp-web-2.60.5-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="corp-utilitario-plantillas-1.4.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/corp-utilitario-plantillas-1.4.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="cp-cobro-proveedores-core-1.21.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/cp-cobro-proveedores-core-1.21.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="cp-convenio-volumenes-core-1.26.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/cp-convenio-volumenes-core-1.26.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="credimax-aplicacion-1.19.1-SNAPSHOT.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/credimax-aplicacion-1.19.1-SNAPSHOT.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="credimax-cliente-1.19.1-SNAPSHOT.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/credimax-cliente-1.19.1-SNAPSHOT.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="credimax-integracion-ws-cliente-1.4.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/credimax-integracion-ws-cliente-1.4.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="credimax-integracion-ws-core-1.4.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/credimax-integracion-ws-core-1.4.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="datetime-1.0.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/datetime-1.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="db2-jcc-1.3.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/db2-jcc-1.3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="dom4j-1.6.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/dom4j-1.6.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="dom4j-1.6.1-hudson-3.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/dom4j-1.6.1-hudson-3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="doxia-sink-api-1.0-alpha-7.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/doxia-sink-api-1.0-alpha-7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="drools-compiler-6.3.0.Final-redhat-5.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/drools-compiler-6.3.0.Final-redhat-5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="drools-core-6.3.0.Final-redhat-5.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/drools-core-6.3.0.Final-redhat-5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="dsl-kLibs-1.0.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/dsl-kLibs-1.0.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="dsws-bicatalog-14.1.1.1036.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/dsws-bicatalog-14.1.1.1036.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="dsws-biplatform-14.1.1.1036.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/dsws-biplatform-14.1.1.1036.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="dsws-common-14.1.1.1036.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/dsws-common-14.1.1.1036.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="dsws-reportengine-12.3.0.601.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/dsws-reportengine-12.3.0.601.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="dsws-saveservice-14.1.8.2168.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/dsws-saveservice-14.1.8.2168.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="dsws-session-14.1.1.1036.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/dsws-session-14.1.1.1036.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ecj-4.5.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/ecj-4.5.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="edtFTPj-2.4.0.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/edtFTPj-2.4.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="el-api-2.2.1-b04.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/el-api-2.2.1-b04.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="elearning.services-3.9.0-SNAPSHOT.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/elearning.services-3.9.0-SNAPSHOT.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="el-impl-2.2.1-b05.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/el-impl-2.2.1-b05.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="engine.io-client-1.0.0.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/engine.io-client-1.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="EWSJavaAPI-1.2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/EWSJavaAPI-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="flux-alerts-client-1.3.15-SNAPSHOT.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/flux-alerts-client-1.3.15-SNAPSHOT.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="flux-alerts-core-1.3.15-SNAPSHOT.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/flux-alerts-core-1.3.15-SNAPSHOT.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fontbox-0.1.0.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fontbox-0.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fontbox-1.7.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fontbox-1.7.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fop-0.95.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fop-0.95.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="freemarker-2.3.23.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/freemarker-2.3.23.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-acceso-datos-2.1.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-acceso-datos-2.1.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-alert-1.1.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-alert-1.1.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-alert-client-1.1.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-alert-client-1.1.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-aplicacion-1.16.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-aplicacion-1.16.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-auditoria-cliente-2.3.3-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-auditoria-cliente-2.3.3-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-auditoria-core-2.3.3-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-auditoria-core-2.3.3-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-cliente-2.35.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-cliente-2.35.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-cliente-sri-1.7.4-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-cliente-sri-1.7.4-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-common-ws-1.0.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-common-ws-1.0.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-core-2.35.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-core-2.35.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-descuentos-venta-client-1.0.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-descuentos-venta-client-1.0.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-encriptacion-1.4.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-encriptacion-1.4.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-encriptacion-smx-1.0.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-encriptacion-smx-1.0.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-generacion-exportacion-1.7.4-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-generacion-exportacion-1.7.4-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-integracion-core-2.0.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-integracion-core-2.0.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-integracion-data-queue-1.4.2-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-integracion-data-queue-1.4.2-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-log-util-1.4.2-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-log-util-1.4.2-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-message-push-movil-2.3.3-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-message-push-movil-2.3.3-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-pom-validator-1.0.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-pom-validator-1.0.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-remote-util-1.2.14-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-remote-util-1.2.14-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-session-audit-client-1.4.4-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-session-audit-client-1.4.4-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-session-audit-core-1.4.4-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-session-audit-core-1.4.4-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-session-audit-web-util-1.4.4-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-session-audit-web-util-1.4.4-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-sms-core-1.4.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-sms-core-1.4.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-utilitario-aplicacion-1.7.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-utilitario-aplicacion-1.7.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-utilitario-componentes-1.2.5-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-utilitario-componentes-1.2.5-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-utilitario-dao-1.12.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-utilitario-dao-1.12.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-utilitario-jsf-2.7.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-utilitario-jsf-2.7.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-utilitario-nosql-2.0.5-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-utilitario-nosql-2.0.5-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-utilitario-recursos-2.3.9-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-utilitario-recursos-2.3.9-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-utilitario-reporte-1.5.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-utilitario-reporte-1.5.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-utilitario-sri-1.7.4-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-utilitario-sri-1.7.4-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-utilitario-web-1.1.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-utilitario-web-1.1.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-utilitario-xml-1.4.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-utilitario-xml-1.4.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fwk-zebra-zpl-1.1.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/fwk-zebra-zpl-1.1.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="geolatte-geom-0.13.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/geolatte-geom-0.13.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="geronimo-activation_1.1_spec-1.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/geronimo-activation_1.1_spec-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="geronimo-javamail_1.4_spec-1.7.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/geronimo-javamail_1.4_spec-1.7.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="geronimo-jta_1.1_spec-1.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/geronimo-jta_1.1_spec-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="geronimo-stax-api_1.0_spec-1.0.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/geronimo-stax-api_1.0_spec-1.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="geronimo-ws-metadata_2.0_spec-1.1.2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/geronimo-ws-metadata_2.0_spec-1.1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="gson-2.2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/gson-2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="guava-18.0.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/guava-18.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="h2-1.4.196.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/h2-1.4.196.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hamcrest-core-1.3.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/hamcrest-core-1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="headers-7.0.1.0.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/headers-7.0.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hibernate-core-3.6.1.Final.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/hibernate-core-3.6.1.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hibernate-jpa-2.0-api-1.0.0.Final.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/hibernate-jpa-2.0-api-1.0.0.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hibernate-validator-4.2.0.Final.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/hibernate-validator-4.2.0.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="HikariCP-java7-2.4.9.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/HikariCP-java7-2.4.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpclient-4.5.2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/httpclient-4.5.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpcore-4.4.4.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/httpcore-4.4.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpmime-4.3.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/httpmime-4.3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="icepdf-core-5.0.7.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/icepdf-core-5.0.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="icepdf-viewer-5.0.7.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/icepdf-viewer-5.0.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="integracion-cmkonector-1.0.2-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/integracion-cmkonector-1.0.2-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="integracion-connector-1.0.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/integracion-connector-1.0.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="integracion-jde-cliente-2.2.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/integracion-jde-cliente-2.2.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="integration-data-queue-1.8.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/integration-data-queue-1.8.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="interfaz-jde-client-1.2.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/interfaz-jde-client-1.2.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="interfaz-jde-core-1.2.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/interfaz-jde-core-1.2.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="itext-1.3.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/itext-1.3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="itext-2.1.7.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/itext-2.1.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="itextpdf-5.5.0.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/itextpdf-5.5.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-annotations-2.3.2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jackson-annotations-2.3.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-core-2.3.2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jackson-core-2.3.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-core-asl-1.9.13.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jackson-core-asl-1.9.13.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-databind-2.3.2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jackson-databind-2.3.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-dataformat-cbor-2.8.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jackson-dataformat-cbor-2.8.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-dataformat-smile-2.8.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jackson-dataformat-smile-2.8.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-dataformat-yaml-2.8.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jackson-dataformat-yaml-2.8.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-datatype-hibernate3-2.3.2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jackson-datatype-hibernate3-2.3.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-mapper-asl-1.9.13.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jackson-mapper-asl-1.9.13.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jakarta-regexp-1.4.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jakarta-regexp-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jarimbak-buscador-1.0.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jarimbak-buscador-1.0.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jarimbak-core-1.7.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jarimbak-core-1.7.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jarimbak-reader-1.0.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jarimbak-reader-1.0.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jarimbak-util-1.7.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jarimbak-util-1.7.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jasperreports-3.5.3.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jasperreports-3.5.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javassist-3.12.1.GA.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/javassist-3.12.1.GA.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javassist-3.18.2-GA.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/javassist-3.18.2-GA.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.inject-1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/javax.inject-1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jaxb-api-2.2.5.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jaxb-api-2.2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jaxb-api-2.2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jaxb-api-2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jaxb-impl-2.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jaxb-impl-2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jaxen-1.1.3.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jaxen-1.1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jaxrpc-api-1.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jaxrpc-api-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jboss-jaxrpc-api_1.1_spec-1.0.1.Final.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jboss-jaxrpc-api_1.1_spec-1.0.1.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jboss-servlet-api_3.0_spec-1.0.1.Final.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jboss-servlet-api_3.0_spec-1.0.1.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jcifs-1.3.17.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jcifs-1.3.17.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jcl-over-slf4j-1.7.25.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jcl-over-slf4j-1.7.25.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jcommon-1.0.15.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jcommon-1.0.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jdo-api-3.0.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jdo-api-3.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jdom-1.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jdom-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jdtcore-3.1.0.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jdtcore-3.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jempbox-0.2.0.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jempbox-0.2.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jempbox-1.7.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jempbox-1.7.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jettison-1.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jettison-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jfreechart-1.0.12.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jfreechart-1.0.12.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jjwt-0.5.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jjwt-0.5.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jmqi-7.0.1.0.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jmqi-7.0.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="joda-time-2.9.7.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/joda-time-2.9.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jooq-3.1.0.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jooq-3.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jsch-0.1.27.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jsch-0.1.27.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="json-20080701.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/json-20080701.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="json-simple-1.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/json-simple-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jsp-api-2.1.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jsp-api-2.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jsr305-1.3.9.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jsr305-1.3.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jsr311-api-1.0.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jsr311-api-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jstl-1.2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jstl-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jstl-impl-1.2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jstl-impl-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jt400-9.3.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jt400-9.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jta-1.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jta-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jtidy-4aug2000r7-dev.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jtidy-4aug2000r7-dev.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jtopen-8.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jtopen-8.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jtopen-native-6.0.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jtopen-native-6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jts-1.13.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jts-1.13.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="junit-4.12.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/junit-4.12.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jwt.utils-3.5.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jwt.utils-3.5.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jxl-2.6.10.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jxl-2.6.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jxls-core-0.9.9.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/jxls-core-0.9.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="kie-api-6.3.0.Final-redhat-5.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/kie-api-6.3.0.Final-redhat-5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="kie-internal-6.3.0.Final-redhat-5.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/kie-internal-6.3.0.Final-redhat-5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="log4j-1.2.17.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/log4j-1.2.17.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="logback-classic-1.0.13.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/logback-classic-1.0.13.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="logback-core-1.0.13.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/logback-core-1.0.13.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="lombok-1.16.20.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/lombok-1.16.20.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mail-1.4.2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/mail-1.4.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mailer-1.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/mailer-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-artifact-2.0.6.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-artifact-2.0.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-artifact-manager-2.0.6.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-artifact-manager-2.0.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-core-2.0.6.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-core-2.0.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-error-diagnostics-2.0.6.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-error-diagnostics-2.0.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-model-2.0.6.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-model-2.0.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-monitor-2.0.6.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-monitor-2.0.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-plugin-api-2.0.6.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-plugin-api-2.0.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-plugin-descriptor-2.0.6.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-plugin-descriptor-2.0.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-plugin-parameter-documenter-2.0.6.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-plugin-parameter-documenter-2.0.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-plugin-registry-2.0.6.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-plugin-registry-2.0.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-profile-2.0.6.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-profile-2.0.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-project-2.0.6.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-project-2.0.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-reporting-api-2.0.6.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-reporting-api-2.0.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-repository-metadata-2.0.6.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-repository-metadata-2.0.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-settings-2.0.6.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/maven-settings-2.0.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-administracion-1.29.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-administracion-1.29.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-articulos-1.30.2-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-articulos-1.30.2-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-bodegas-1.27.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-bodegas-1.27.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-cliente-integracion-loyalty-1.21.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-cliente-integracion-loyalty-1.21.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-cliente-inventarioV2-1.26.2-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-cliente-inventarioV2-1.26.2-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-cliente-loyalty-ws-1.21.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-cliente-loyalty-ws-1.21.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-cliente-sic-1.29.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-cliente-sic-1.29.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-cliente-sistar-1.2.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-cliente-sistar-1.2.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-controlcaducados-1.8.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-controlcaducados-1.8.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-control-rutas-1.20.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-control-rutas-1.20.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-despacho-1.14.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-despacho-1.14.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-fruver-1.24.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-fruver-1.24.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-gestion-precios-1.22.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-gestion-precios-1.22.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-integraciones-1.29.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-integraciones-1.29.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-integracion-loyalty-1.21.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-integracion-loyalty-1.21.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-inventariosV2-1.26.2-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-inventariosV2-1.26.2-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-minimosmaximos-1.8.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-minimosmaximos-1.8.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-movil-bodega-1.27.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-movil-bodega-1.27.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-movil-cliente-1.27.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-movil-cliente-1.27.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-novedades-1.14.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-novedades-1.14.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-ordenes-compra-1.27.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-ordenes-compra-1.27.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-pedido-asistido-1.27.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-pedido-asistido-1.27.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-pedido-unos-1.19.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-pedido-unos-1.19.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-procesamiento-ventas-1.14.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-procesamiento-ventas-1.14.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-produccion-empacado-1.12.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-produccion-empacado-1.12.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-proveedores-1.20.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-proveedores-1.20.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-recarga-cupones-1.23.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-recarga-cupones-1.23.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-recepcion-despacho-1.4.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-recepcion-despacho-1.4.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-recibido-no-contabilizado-1.26.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-recibido-no-contabilizado-1.26.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-recipientes-1.24.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-recipientes-1.24.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-registroventas-1.10.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-registroventas-1.10.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-registroventas-mig-1.10.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-registroventas-mig-1.10.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-sic-integracion-util-1.29.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-sic-integracion-util-1.29.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-utilitario-integracion-loyalty-jsf-1.21.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-utilitario-integracion-loyalty-jsf-1.21.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-utilitario-jsf-1.28.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-utilitario-jsf-1.28.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="max-ventas-terceros-1.2.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/max-ventas-terceros-1.2.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mensajeria-core-1.8.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/mensajeria-core-1.8.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mensajeria-taglib-1.0.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/mensajeria-taglib-1.0.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="MITyCLibAPI-1.1.7.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/MITyCLibAPI-1.1.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="MITyCLibCert-1.1.7.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/MITyCLibCert-1.1.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="MITyCLibXADES-1.1.7.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/MITyCLibXADES-1.1.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="modelmapper-1.1.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/modelmapper-1.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mvel2-2.2.7.Final-redhat-1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/mvel2-2.2.7.Final-redhat-1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mysema-commons-lang-0.2.4.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/mysema-commons-lang-0.2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="neethi-3.0.2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/neethi-3.0.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="neo4j-cypher-compiler-2.1-2.1.2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/neo4j-cypher-compiler-2.1-2.1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="okhttp-3.8.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/okhttp-3.8.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="okio-1.13.0.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/okio-1.13.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ooxml-schemas-1.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/ooxml-schemas-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="opencsv-2.3.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/opencsv-2.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.apache.commons.lang-2.6.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/org.apache.commons.lang-2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.apache.commons.logging-1.1.3.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/org.apache.commons.logging-1.1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.apache.servicemix.bundles.javax-inject-1_2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/org.apache.servicemix.bundles.javax-inject-1_2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.apache.servicemix.bundles.xerces-2.11.0_1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/org.apache.servicemix.bundles.xerces-2.11.0_1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="orientdb-client-2.2.11.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/orientdb-client-2.2.11.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="orientdb-core-2.2.11.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/orientdb-core-2.2.11.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="orientdb-object-2.2.11.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/orientdb-object-2.2.11.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="oro-2.0.8.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/oro-2.0.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="os4690-1.0.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/os4690-1.0.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="parboiled-core-1.1.6.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/parboiled-core-1.1.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="parboiled-scala_2.10-1.1.6.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/parboiled-scala_2.10-1.1.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="pdfbox-0.7.3.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/pdfbox-0.7.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="pdfbox-1.7.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/pdfbox-1.7.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="pdf-renderer-1.0.5.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/pdf-renderer-1.0.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="plexus-container-default-1.0-alpha-9-stable-1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/plexus-container-default-1.0-alpha-9-stable-1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="plexus-interactivity-api-1.0-alpha-4.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/plexus-interactivity-api-1.0-alpha-4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="plexus-utils-1.0.2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/plexus-utils-1.0.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="plexus-utils-1.5.8.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/plexus-utils-1.5.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-3.13.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/poi-3.13.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-ooxml-3.13.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/poi-ooxml-3.13.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-ooxml-schemas-3.13.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/poi-ooxml-schemas-3.13.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ppago-jde-2.0.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/ppago-jde-2.0.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="protobuf-java-2.5.0.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/protobuf-java-2.5.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="quartz-1.6.5.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/quartz-1.6.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="querydsl-apt-4.1.4.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/querydsl-apt-4.1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="querydsl-codegen-4.1.4.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/querydsl-codegen-4.1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="querydsl-core-4.1.4.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/querydsl-core-4.1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="querydsl-jpa-4.1.4.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/querydsl-jpa-4.1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="querydsl-spatial-4.1.3.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/querydsl-spatial-4.1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="querydsl-sql-4.1.4.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/querydsl-sql-4.1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="querydsl-sql-codegen-4.1.3.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/querydsl-sql-codegen-4.1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="querydsl-sql-spatial-4.1.3.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/querydsl-sql-spatial-4.1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="reflections-0.9.9.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/reflections-0.9.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="scala-library-2.10.4.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/scala-library-2.10.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sicmer-aplicacion-2.0.0-SNAPSHOT.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/sicmer-aplicacion-2.0.0-SNAPSHOT.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sif-cliente-1.39.2-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/sif-cliente-1.39.2-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sif-cliente-jde-1.6.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/sif-cliente-jde-1.6.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sif-factura-utilitario-cliente-1.4.5-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/sif-factura-utilitario-cliente-1.4.5-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sif-factura-utilitario-core-1.4.5-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/sif-factura-utilitario-core-1.4.5-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sim-cliente-1.23.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/sim-cliente-1.23.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sim-core-1.23.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/sim-core-1.23.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sispe-fwk-administracion-client-1.1.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/sispe-fwk-administracion-client-1.1.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sispe-fwk-administracion-core-1.1.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/sispe-fwk-administracion-core-1.1.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="SizeOf-0.2.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/SizeOf-0.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-api-1.7.7.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/slf4j-api-1.7.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-log4j12-1.7.7.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/slf4j-log4j12-1.7.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="snakeyaml-1.15.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/snakeyaml-1.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="socket.io-client-1.0.0.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/socket.io-client-1.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-aop-3.2.15.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-aop-3.2.15.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-aspects-3.2.15.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-aspects-3.2.15.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-batch-core-2.2.1.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-batch-core-2.2.1.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-batch-excel-0.5.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-batch-excel-0.5.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-batch-infrastructure-2.2.1.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-batch-infrastructure-2.2.1.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-beans-3.2.15.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-beans-3.2.15.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-context-3.2.15.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-context-3.2.15.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-context-support-3.2.15.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-context-support-3.2.15.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-core-3.2.15.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-core-3.2.15.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-data-commons-1.13.4.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-data-commons-1.13.4.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-expression-3.2.15.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-expression-3.2.15.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-jdbc-3.2.15.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-jdbc-3.2.15.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-jms-3.1.0.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-jms-3.1.0.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-orm-3.2.15.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-orm-3.2.15.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-oxm-3.2.15.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-oxm-3.2.15.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-retry-1.1.0.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-retry-1.1.0.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-security-config-4.0.4.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-security-config-4.0.4.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-security-core-4.0.4.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-security-core-4.0.4.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-security-web-4.0.4.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-security-web-4.0.4.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-test-3.2.15.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-test-3.2.15.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-tx-3.2.15.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-tx-3.2.15.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-web-3.2.15.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-web-3.2.15.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-webmvc-3.2.15.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-webmvc-3.2.15.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-webmvc-portlet-3.1.0.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-webmvc-portlet-3.1.0.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-ws-core-2.1.4.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-ws-core-2.1.4.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-xml-2.1.4.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/spring-xml-2.1.4.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sqljdbc3-2008-3.0.1301.101.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/sqljdbc3-2008-3.0.1301.101.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="standard-1.0.2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/standard-1.0.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="stax-api-1.0.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/stax-api-1.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="stp-tareas-programadas-core-1.11.3-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/stp-tareas-programadas-core-1.11.3-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="stp-tareas-programadas-utilitario-calendarizacion-1.2.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/stp-tareas-programadas-utilitario-calendarizacion-1.2.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="stp-web-util-1.11.3-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/stp-web-util-1.11.3-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="string-1.0.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/string-1.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="struts-core-1.3.8.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/struts-core-1.3.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="struts-el-1.3.8.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/struts-el-1.3.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="struts-extras-1.3.8.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/struts-extras-1.3.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="struts-mailreader-dao-1.3.8.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/struts-mailreader-dao-1.3.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="struts-scripting-1.3.8.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/struts-scripting-1.3.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="struts-taglib-1.3.8.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/struts-taglib-1.3.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="struts-tiles-1.3.8.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/struts-tiles-1.3.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tcrm-client-1.1.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/tcrm-client-1.1.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tcrm-core-1.1.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/tcrm-core-1.1.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tdgssconfig-16.20.00.06.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/tdgssconfig-16.20.00.06.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="telnetd-x-2.1.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/telnetd-x-2.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="terajdbc4-16.20.00.06.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/terajdbc4-16.20.00.06.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tlog-cliente-1.6.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/tlog-cliente-1.6.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tlog-core-1.6.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/tlog-core-1.6.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tlog-proceso-sri-1.0.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/tlog-proceso-sri-1.0.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tlog-ventas-1.6.1-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/tlog-ventas-1.6.1-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tracelog-14.2.3.r2351_v20170310.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/tracelog-14.2.3.r2351_v20170310.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="utils-1.07.00.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/utils-1.07.00.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="validation-api-1.0.0.GA.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/validation-api-1.0.0.GA.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="vpi-cliente-1.0.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/vpi-cliente-1.0.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="wagon-file-1.0-beta-2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/wagon-file-1.0-beta-2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="wagon-http-lightweight-1.0-beta-2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/wagon-http-lightweight-1.0-beta-2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="wagon-http-shared-1.0-beta-2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/wagon-http-shared-1.0-beta-2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="wagon-provider-api-1.0-beta-2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/wagon-provider-api-1.0-beta-2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="wagon-ssh-1.0-beta-2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/wagon-ssh-1.0-beta-2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="wagon-ssh-common-1.0-beta-2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/wagon-ssh-common-1.0-beta-2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="wagon-ssh-external-1.0-beta-2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/wagon-ssh-external-1.0-beta-2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="woden-api-1.0M9.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/woden-api-1.0M9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="woden-impl-commons-1.0M9.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/woden-impl-commons-1.0M9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="woden-impl-dom-1.0M9.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/woden-impl-dom-1.0M9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="workflow-integration-1.0.0-RELEASE.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/workflow-integration-1.0.0-RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="wsdl4j-1.6.2.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/wsdl4j-1.6.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="wstx-asl-3.2.9.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/wstx-asl-3.2.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xalan-2.6.0.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/xalan-2.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xercesImpl-2.11.0.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/xercesImpl-2.11.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xml-apis-1.4.01.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/xml-apis-1.4.01.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xml-apis-ext-1.3.04.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/xml-apis-ext-1.3.04.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xmlbeans-2.6.0.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/xmlbeans-2.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Desktop/tmpBorrar/xmlbeans-2.6.0-source.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xmlgraphics-commons-1.3.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/xmlgraphics-commons-1.3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xmlpull-1.1.3.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/xmlpull-1.1.3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="XmlSchema-1.4.7.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/XmlSchema-1.4.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xmlsec-1.4.2-ADSI-1.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/xmlsec-1.4.2-ADSI-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xpp3_min-1.1.4c.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/xpp3_min-1.1.4c.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xpp3-1.1.6.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/xpp3-1.1.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xstream-1.4.7.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/xstream-1.4.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="kettle-core-6.0.1.0-383.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/kettle-core-6.0.1.0-383.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="kettle-engine-6.0.1.0-383.jar">
+        <CLASSES>
+          <root url="jar://D:/Backups/EAR's y JAR's/jarDependencias/kettle-engine-6.0.1.0-383.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

@@ -1,0 +1,408 @@
+ext {
+  strutsVersion = '1.3.8'
+  springVersion = '3.2.15.RELEASE'
+  springBatch = '2.2.1.RELEASE'
+  loyaltyVersion = '2.2.1-RELEASE'
+  inventariosVersion = '2.7.3-RELEASE'
+  maxGroup = 'ec.com.smx.sic'
+  maxVersion = '2.6.20-RELEASE'
+  maxWebVersion = '2.6.15-RELEASE'
+  maxArticulosVersion = '2.3.12-RELEASE'
+  maxBodegasVersion = '2.3.12-RELEASE'
+  maxMovilVersion = '2.2.9-RELEASE'
+  maxEscanerWebVersion = '1.0.2-RELEASE'
+  maxEscanerLoginWebVersion = '1.0.1-RELEASE'
+  maxCdTareasVersion = '1.6.2-RELEASE'
+  maxRecursosVersion = '1.0.1-RELEASE'
+  maxRecargaCuponesVersion = '1.26.0-RELEASE'
+  maxProveedoresVersion = '2.2.2-RELEASE'
+  maxOrdenesCompraVersion = '2.1.18-RELEASE'
+  maxPedidoAsistidoVersion = '2.1.28-RELEASE'
+  maxPedidoUnosVersion = '2.1.3-RELEASE'
+  maxRecipientesVersion = '2.2.32-RELEASE'
+  maxVentasTercerosVersion = '2.1.2-RELEASE'
+  maxRecibidoNoContabilizadoVersion = '1.27.0-RELEASE'
+  maxControlRutasVersion = '2.2.4-RELEASE'
+  maxFruverVersion = '2.2.4-RELEASE'
+  maxGestionPreciosVersion = '2.6.0-RELEASE'
+  maxDespachoVersion = '2.3.3-RELEASE'
+  maxNovedadesVersion = '2.3.10-RELEASE'
+  maxControlCaducados = '2.2.5-RELEASE'
+  maxMinimosMaximos = '2.2.0-RELEASE'  
+  cpCobroProveedores='1.25.0-RELEASE'
+  cpVolumnesVersion = '2.0.14-RELEASE'
+  slf4jVersion = '1.7.7'  
+  corpV2Version = '2.75.5-RELEASE'
+  corpUtilitarioWeb = '2.71.5-RELEASE'
+  orientdbVersion = '2.2.11'
+  fwkAuditoriaVersion = '3.1.0-RELEASE'
+  richfacesVersion = '4.2.0.Final'
+  jarimbakVersion = '1.8.0-RELEASE'
+  fwkVersion = '2.44.0-RELEASE'
+  autorizacionesVersion = '4.2.7-RELEASE'
+  interfazJde = '1.5.0-RELEASE'
+  corpEtiquetadoVersion = '3.6.3-RELEASE'
+  corpUtilitarioPlantillasVersion = '1.5.0-RELEASE'
+  corpUtilitarioImpresionVersion = '4.3.2-RELEASE'
+  simVersion = '1.26.0-RELEASE'
+  stpVersion = '1.13.0-RELEASE'
+  stpRestClientVersion = '1.0.0-RELEASE'
+  fwkAlertUtil = '1.2.0-RELEASE'
+  integracionJDEVersion='2.3.0-RELEASE'  
+  sifFacturacionUtilVersion = '1.7.0-RELEASE'
+  fwkClienteSRI = '1.9.0-RELEASE'
+  fluxAlertsVersion = '2.0.0-RELEASE'
+  reportesBigData = '1.8.2-RELEASE'
+  registroVentasVersion = '2.5.3-RELEASE'
+  tlogVersion = '1.9.5-RELEASE'
+  tlogVersionVentas = '1.9.6-RELEASE'
+  tlogVersionSri = '1.9.0-RELEASE'
+  querydslVersion = '4.1.3'
+  fwkSessionAudit = '1.7.1-RELEASE'
+  maxRecepcionDespachoVersion = '2.4.3-RELEASE'
+  integracionWsCredimax = '1.5.1-RELEASE'
+  tcrmVersion = '1.2.0-RELEASE'
+  arpVersion = '2.0.0-RELEASE'
+  projectLombokVersion = '1.16.20'
+  fwkUtilitarioReporte ='2.0.0-RELEASE'
+  maxVoVersion = '2.3.7-RELEASE'
+  cacheApiRest = '1.0.0-RELEASE'
+  maxIntegracion = '2.1.0-RELEASE'
+  mensajeriaVersion = '1.11.0-RELEASE'
+  kettleVersion = '1.2.0-RELEASE'
+  jxlVersion = '2.6.8'
+  corpVOVersion = '2.1.0-RELEASE'
+  xfireVersion = '1.2.6'
+  libraries = [
+		//Modulos del max	
+		"ec.com.smx.sic:max-cliente-integracion-loyalty":"${loyaltyVersion}",		
+		"ec.com.smx.sic:max-utilitario-integracion-loyalty-jsf":"${loyaltyVersion}",
+		"ec.com.smx.sic:max-cliente-loyalty-ws":"${loyaltyVersion}",
+		"ec.com.smx.sic:max-integracion-loyalty":"${loyaltyVersion}",
+		"ec.com.smx.sic:max-cliente-inventarioV2":"${inventariosVersion}",
+		"ec.com.smx.sic:max-inventariosV2":"${inventariosVersion}",
+		"ec.com.smx.sic:max-inventario-ws":"${inventariosVersion}",
+		"ec.com.smx.sic:max-sic-integracion-util":"${maxIntegracion}",
+		"ec.com.smx.sic:max-integraciones":"${maxIntegracion}",
+		"ec.com.smx.sic:max-cliente-sic":"${maxVersion}",
+		"ec.com.smx.sic:max-administracion":"${maxVersion}",
+		"ec.com.smx.sic:max-articulos":"${maxArticulosVersion}",
+		"ec.com.smx.sic:max-despacho":"${maxDespachoVersion}",
+		"ec.com.smx.sic:max-despacho-ws":"${maxDespachoVersion}",
+		"ec.com.smx.sic:max-bodegas":"${maxBodegasVersion}",
+		"ec.com.smx.sic:max-movil-cliente":"${maxMovilVersion}",
+		"ec.com.smx.sic:max-movil-bodega":"${maxMovilVersion}",		
+		"ec.com.smx.sic:max-gestion-precios":"${maxGestionPreciosVersion}",	
+		"ec.com.smx.sic:max-gestion-precios-ws":"${maxGestionPreciosVersion}",			
+		"ec.com.smx.sic:max-ordenes-compra":"${maxOrdenesCompraVersion}",
+		"ec.com.smx.sic:max-pedido-asistido":"${maxPedidoAsistidoVersion}",
+		"ec.com.smx.sic:max-pedido-unos-ws":"${maxPedidoUnosVersion}",
+		"ec.com.smx.sic:max-pedido-unos":"${maxPedidoUnosVersion}",
+		"ec.com.smx.sic:max-proveedores":"${maxProveedoresVersion}",
+		"ec.com.smx.sic:max-proveedores-ws":"${maxProveedoresVersion}",
+		"ec.com.smx.sic:max-recarga-cupones":"${maxRecargaCuponesVersion}",
+		"ec.com.smx.sic:max-fruver":"${maxFruverVersion}",
+		"ec.com.smx.sic:max-fruver-ws":"${maxFruverVersion}",		
+		"ec.com.smx.sic:max-utilitario-jsf":"${maxWebVersion}",
+		"ec.com.smx.sic:max-escaner-web":"${maxEscanerWebVersion}",
+		"ec.com.smx.sic:max-movil-web":"${maxMovilVersion}",
+		"ec.com.smx.sic:max-cd-ws":"${maxBodegasVersion}",
+		"ec.com.smx.sic:max-cd-tareas-ws":"${maxCdTareasVersion}",
+        "ec.com.smx.sic:max-recursos-escaner":"${maxRecursosVersion}",
+        "ec.com.smx.sic:max-recursos-escaner-web":"${maxRecursosVersion}",
+		"ec.com.smx.sic:max-pedido-asistido-ws":"${maxPedidoAsistidoVersion}",
+		"ec.com.smx.sic:max-novedades":"${maxNovedadesVersion}",
+		"ec.com.smx.sic:max-recipientes":"${maxRecipientesVersion}",
+		"ec.com.smx.sic:max-control-rutas":"${maxControlRutasVersion}",		
+		"ec.com.smx.sic:max-recibido-no-contabilizado":"${maxRecibidoNoContabilizadoVersion}",
+		"ec.com.smx.sic:max-controlcaducados":"${maxControlCaducados}",
+		"ec.com.smx.sic:max-minimosmaximos":"${maxMinimosMaximos}",
+		"ec.com.smx.sic:cp-cobro-proveedores-core":"${cpCobroProveedores}",	
+		"ec.com.smx.sic:cp-convenio-volumenes-core":"${cpVolumnesVersion}",
+		"ec.com.smx.sic:cp-convenio-volumenes-ws":"${cpVolumnesVersion}",
+		"ec.com.smx.sic:max-registroventas":"${registroVentasVersion}",
+		"ec.com.smx.sic:max-registroventas-mig":"${registroVentasVersion}",
+		"ec.com.smx.sic:max-registroventas-ws":"${registroVentasVersion}",
+		"ec.com.smx.sic:max-recepcion-despacho":"${maxRecepcionDespachoVersion}", 
+		"ec.com.smx.sic:max-recepcion-despacho-ws":"${maxRecepcionDespachoVersion}",
+		"ec.com.smx.sic:max-ventas-terceros":"${maxVentasTercerosVersion}",
+        "ec.com.smx.sic:max-cd-cbl":"${maxBodegasVersion}",
+		"ec.com.smx.sic:max-vo":"${maxVoVersion}",
+		"ec.com.smx.sic:max-bodega-vo":"${maxVoVersion}",
+        "ec.com.smx.sic:max-recepcion-vo":"${maxVoVersion}",
+        "ec.com.smx.sic:max-control-rutas-vo":"${maxVoVersion}",
+		"ec.com.smx.corpv2:corp-vo-cliente":"${corpVOVersion}",
+        "ec.com.smx.sic:max-escaner-login-web":"${maxEscanerLoginWebVersion}",
+        "ec.com.smx.sic:max-escaner-login-cliente":"${maxEscanerLoginWebVersion}",
+        "ec.com.smx.sic:max-escaner-login-bodega":"${maxEscanerLoginWebVersion}",
+		
+		//Modulos de ARP
+		"ec.com.smx.arp:aud-recepcion-core":"${arpVersion}",
+		"ec.com.smx.arp:aud-recepcion-ws":"${arpVersion}",
+		
+		//Modulos de otros proyectos
+		"ec.com.smx.mensajeria:mensajeria-core":"${mensajeriaVersion}",
+		"ec.com.smx.mensajeria:mensajeria-cliente":"${mensajeriaVersion}",
+		"ec.com.kruger.jarimbak:jarimbak-core":"${jarimbakVersion}",
+		"ec.com.kruger.jarimbak:jarimbak-util":"${jarimbakVersion}",
+		"ec.com.kruger.workflow:workflow-integration":"2.0.0-RELEASE",
+		"ec.com.smx.stp:stp-tareas-programadas-core":"${stpVersion}",
+		"ec.com.smx.stp:stp-web-util":"${stpVersion}",
+		"ec.com.smx.stp:stp-rest-client":"${stpRestClientVersion}",		
+		"ec.com.kruger:fwk-log-util":"2.2.1-RELEASE",
+		"ec.com.kruger:fwk-utilitario-aplicacion":"2.0.0-RELEASE",
+		"ec.com.smx.frameworkv2:fwk-acceso-datos":"2.3.0-RELEASE",
+		"ec.com.smx.framework:fwk-aplicacion":"1.21.0-RELEASE",
+		"ec.com.kruger:fwk-utilitario-dao":"1.13.0-RELEASE",
+		"ec.com.smx.framework:fwk-generacion-exportacion":"1.8.0-RELEASE",
+		"ec.com.kruger.kettle:fwk-kettle-client":"${kettleVersion}",
+		"ec.com.kruger.kettle:fwk-kettle-core":"${kettleVersion}",
+		"ec.com.kruger:fwk-utilitario-reporte":"2.0.0-RELEASE",
+		"ec.com.smx.frameworkv2:fwk-core":"${fwkVersion}",
+		"ec.com.smx.frameworkv2:fwk-cliente":"${fwkVersion}",
+		"ec.com.smx.frameworkv2:fwk-auditoria-cliente":"${fwkAuditoriaVersion}",
+		"ec.com.smx.frameworkv2:fwk-auditoria-core":"${fwkAuditoriaVersion}",
+		"ec.com.smx.frameworkv2:fwk-utilitario-recursos":"2.4.1-RELEASE",
+		"ec.com.smx.frameworkv2:fwk-utilitario-jsf":"2.8.1-RELEASE",
+		"ec.com.smx.frameworkv2:fwk-utilitario-componentes":"2.0.0-RELEASE",
+		"ec.com.smx.frameworkv2:fwk-alert":"${fwkAlertUtil}",
+		"ec.com.smx.frameworkv2:fwk-alert-client":"${fwkAlertUtil}",
+		"ec.com.smx.framework:fwk-sms-core":"1.5.0-RELEASE",
+		"ec.com.smx.integration:integration-data-queue":"2.1.5-RELEASE",
+		"ec.com.kruger:fwk-utilitario-xml":"1.5.1-RELEASE",
+		"ec.com.kruger:fwk-encriptacion":"1.5.0-RELEASE",
+		"ec.com.smx.corpv2:corp-utilitario-plantillas":"${corpUtilitarioPlantillasVersion}",
+		"ec.com.smx.ppago:ppago-jde":"2.1.0-RELEASE",
+		"ec.com.smx.bi:bi-modelo":"1.9.0-RELEASE",
+		"ec.com.smx.corpv2:corp-cliente":"${corpV2Version}",
+		"ec.com.smx.corpv2:corp-core":"${corpV2Version}",
+		"ec.com.smx.corpv2:corp-utilitario-corp-web":"${corpUtilitarioWeb}",
+		
+		"ec.com.smx.corpv2:corp-ftp":"2.1.0-RELEASE",
+		"ec.com.smx.autorizaciones:autorizaciones-cliente":"${autorizacionesVersion}",
+		"ec.com.smx.autorizaciones:autorizaciones-core":"${autorizacionesVersion}",
+		"ec.com.smx.autorizaciones:autorizaciones-utilitario-web":"${autorizacionesVersion}",
+		"ec.com.smx.jde.facturacion:sif-cliente-jde":"1.8.0-RELEASE",
+		"ec.com.smx.interfaz.jde:interfaz-jde-client":"${interfazJde}",
+		"ec.com.smx.interfaz.jde:interfaz-jde-core":"${interfazJde}",
+		"ec.com.smx.facturacion:sif-cliente":"1.45.0-RELEASE",
+		"ec.com.smx.integracion:integracion-cmkonector":"1.2.0-RELEASE",
+		"ec.com.smx.corpv2:corp-cliente-sistar-ws":"2.5.0-RELEASE",
+		"ec.com.smx.integracion.jde:integracion-jde-cliente":"${integracionJDEVersion}",
+		"ec.com.smx.integracion.jde:integracion-jde-core":"${integracionJDEVersion}",
+		"ec.com.smx.auditoria:auditoria-cliente":"2.13.0-RELEASE",
+		"ec.com.smx.inmobiliario:sim-cliente":"${simVersion}",
+		"ec.com.smx.inmobiliario:sim-core":"${simVersion}",
+		"ec.com.smx.corporativo:corp-aplicacion":"1.8.0-RELEASE",
+		"ec.com.smx.corporativo:corp-cierre":"1.9.0-RELEASE",
+		"ec.com.smx.corpv2:corp-cliente-etiquetado":"${corpEtiquetadoVersion}",
+		"ec.com.smx.corpv2:corp-etiquetado":"${corpEtiquetadoVersion}",
+		"ec.com.smx.corpv2:corp-etiquetado-util-web":"${corpEtiquetadoVersion}",
+		"ec.com.smx.frameworkv2:fwk-message-push-movil":"2.4.0-RELEASE",
+		"ec.com.smx.framework:fwk-utilitario-web":"1.6.0-RELEASE",
+		"ec.com.kruger.cliente.sri:fwk-cliente-sri":"${fwkClienteSRI}",
+		"ec.com.kruger.cliente.sri:fwk-utilitario-sri":"${fwkClienteSRI}",
+		"ec.com.kruger:fwk-remote-util":"1.3.0-RELEASE",
+		"ec.com.smx.frameworkv2:fwk-utilitario-nosql":"2.1.1-RELEASE",
+		"ec.com.smx.corpv2:corp-impresion-core":"${corpUtilitarioImpresionVersion}",
+		"ec.com.smx.corpv2:corp-impresion-web-util":"${corpUtilitarioImpresionVersion}",
+		"ec.com.smx.corpv2:corp-cliente-impresion":"${corpUtilitarioImpresionVersion}",
+		"ec.com.kruger.frameworkv2:fwk-zebra-zpl":"2.0.0-RELEASE",
+		"ec.com.smx.stp:stp-tareas-programadas-utilitario-calendarizacion":"1.3.0-RELEASE",
+		"ec.com.smx.factura.util:sif-factura-utilitario-core":"${sifFacturacionUtilVersion}",
+		"ec.com.smx.factura.util:sif-factura-utilitario-cliente":"${sifFacturacionUtilVersion}",
+		"ec.com.smx.flux:flux-alerts-client":"${fluxAlertsVersion}",
+		"ec.com.smx.flux:flux-alerts-core":"${fluxAlertsVersion}",
+		"ec.com.smx.rbd:utilitario-reportes-bigdata-jsf":"${reportesBigData}",
+		"ec.com.smx.rbd:reportes-bigdata-cliente":"${reportesBigData}",	
+		"ec.com.smx.tlog:tlog-cliente":"${tlogVersion}",
+		"ec.com.smx.tlog:tlog-core":"${tlogVersion}",
+		"ec.com.smx.tlog:tlog-ventas":"${tlogVersionVentas}",
+		"ec.com.smx.tlog:tlog-proceso-sri":"${tlogVersionSri}",
+		"ec.com.smx.framework.session.audit:fwk-session-audit-web-util":"${fwkSessionAudit}",
+		"ec.com.smx.frameworkv2:fwk-utilitario-barcode":"0.1.2-RELEASE",
+		"ec.com.smx.sic:max-articulos-vo":"${maxVoVersion}",
+
+		"ec.com.smx.cache:cache-api-rest":"${cacheApiRest}",
+		
+		//Dependencias externas
+		"org.springframework.ws:spring-ws-core":"2.0.4.RELEASE",
+		"org.apache.geronimo.specs:geronimo-stax-api_1.0_spec":"1.0.1",
+		"org.apache.ws.commons.axiom:axiom-api":"1.2.13",
+		"org.apache.ws.commons.axiom:axiom-impl":"1.2.13",
+		"org.apache.axis2:axis2-transport-local":"1.6.2",
+		"org.apache.axis2:axis2-transport-http":"1.6.2",
+		"log4j:log4j":"1.2.17",
+		"org.slf4j:slf4j-api":"${slf4jVersion}",
+		"org.slf4j:slf4j-log4j12":"${slf4jVersion}",
+		"aopalliance:aopalliance":"1.0",
+		"antlr:antlr":"2.7.6",
+		"dom4j:dom4j":"1.6.1",
+		"org.jvnet.hudson.dom4j:dom4j":"1.6.1-hudson-3",
+		"org.jboss.javaee:jboss-transaction-api":"1.0.1.GA",
+		"commons-logging:commons-logging":"1.1.3",
+		"javax.mail:mail":"1.4",
+		"commons-digester:commons-digester":"1.8",
+		"org.jdom:jdom":"1.1",
+		"commons-io:commons-io":"2.5",
+		"org.apache.commons:commons-io":"1.3.2",
+		"junit:junit":"4.12",
+		"org.springframework:spring-core":"${springVersion}",
+		"org.springframework:spring-context":"${springVersion}",
+		"org.springframework:spring-aspects":"${springVersion}",
+		"org.springframework:spring-aop":"${springVersion}",
+		"org.springframework:spring-beans":"${springVersion}",
+		"org.springframework:spring-expression":"${springVersion}",
+		"org.springframework:spring-context-support":"${springVersion}",
+		"org.springframework:spring-jdbc":"${springVersion}",
+		"org.springframework:spring-orm":"${springVersion}",
+		"org.springframework:spring-oxm":"${springVersion}",
+		"org.springframework:spring-tx":"${springVersion}",
+		"org.springframework:spring-web":"${springVersion}",
+		"org.springframework:spring-webmvc":"${springVersion}",
+		"org.springframework:spring-test":"${springVersion}",
+		"org.springframework.security:spring-security-crypto":"3.2.9.RELEASE",
+		"org.springframework.batch:spring-batch-core":"${springBatch}",
+		"org.springframework.batch:spring-batch-infrastructure":"${springBatch}",
+		"org.springframework:spring-instrument-tomcat":"${springVersion}",
+		"org.springframework:spring-instrument":"${springVersion}",
+		"org.springframework.batch:spring-batch-excel":"0.5.0-RELEASE",
+		"org.springframework.data:spring-data-commons":"1.13.4.RELEASE",
+		"com.businessobjects.dsws:dsws-bicatalog":"11.5.8.826",
+		"com.businessobjects.dsws:dsws-biplatform":"11.5.8.827",
+		"com.businessobjects.dsws:dsws-common":"11.5.8.829",
+		"com.businessobjects.dsws:dsws-publish":"11.5.8.830",
+		"com.businessobjects.dsws:dsws-queryservice":"11.5.8.831",
+		"com.businessobjects.dsws:dsws-reportengine":"11.5.8.832",
+		"com.businessobjects.dsws:dsws-saveservice":"11.5.8.833",
+		"com.businessobjects.dsws:dsws-session":"11.5.8.834",
+		"org.hibernate:hibernate-core":"3.6.1.Final",
+		"org.hibernate.javax.persistence:hibernate-jpa-2.0-api":"1.0.0.Final",
+		"org.hibernate:hibernate-validator":"4.2.0.Final",
+		"commons-validator:commons-validator":"1.3.1",
+		"commons-codec:commons-codec":"1.4",
+		"commons-discovery:commons-discovery":"0.4",
+		"commons-fileupload:commons-fileupload":"1.2.1",
+		"commons-httpclient:commons-httpclient":"3.1-rc1",
+		"commons-net:commons-net":"3.3",
+		"org.apache.commons:commons-lang3":"3.1",
+		"commons-lang:commons-lang":"2.4",
+		"commons-beanutils:commons-beanutils":"1.8.3",
+		"commons-chain:commons-chain":"1.2",
+		"commons-collections:commons-collections":"3.2.1",
+		"org.apache.commons:commons-collections4":"4.1",
+		"commons-dbcp:commons-dbcp":"1.2.2",
+		"net.sf.ehcache:ehcache-core":"2.4.6",
+		"net.sf.ehcache:ehcache-web":"2.0.4",
+		"org.opensymphony.quartz:quartz":"1.6.5",
+		"com.lowagie:itext":"1.3.1",
+		"org.apache.ws.commons.axiom:axiom-common-impl":"1.2.13",
+		"org.apache.axis:axis":"1.4",
+		"org.apache.axis2:axis2-adb":"1.6.2",
+		"org.apache.axis2:axis2-kernel":"1.6.2",
+		"org.apache.axis2:axis2-saaj":"1.5.4",
+		"org.apache.axis2:axis2-xmlbeans":"1.5.4",
+		"javax.xml:jaxrpc-api":"1.1",
+		"javax.xml.ws:jaxws-api":"2.0",
+		"org.apache.neethi:neethi":"3.0.2",
+		"com.businessobjects:businessobjects-log":"11.5.8.826",
+		"wsdl4j:wsdl4j":"1.6.2",
+		"org.apache.ws.commons.schema:XmlSchema":"1.4.3",
+		"com.enterprisedt:edtFTPj":"2.4.0",
+		"org.apache.poi:poi":"3.14",
+		"org.apache.poi:poi-ooxml":"3.14",
+		"org.apache.poi:poi-ooxml-schemas":"3.14",
+		"org.apache.poi:poi-excelant":"3.14",
+		"org.apache.poi:poi-scratchpad":"3.14",
+		"com.thoughtworks.xstream:xstream":"1.4.2",
+		"com.ibm.mq:jmqi":"7.0.1.0",
+		"org.tigris.log4javascript:log4javascript":"1.3.1",
+		"com.ibm.mq:headers":"7.0.1.0",
+		"javax.resource:connector-api":"1.5",
+		"com.ibm.mq:commonservices":"7.0.1.0",
+		"com.ibm.mq:core":"7.0.1.0",
+		"org.aspectj:aspectjrt":"1.7.0",
+		"org.aspectj:aspectjweaver":"1.7.4",
+		"org.ostermiller:utils":"1.07.00",
+		"org.apache.ws.commons:ws-commons-util":"1.0.1",
+		"org.apache.xmlbeans:xmlbeans":"2.6.0",
+		"xml-apis:xmlParserAPIs":"2.0.2",
+		"org.apache.struts:struts-core":"${strutsVersion}",
+		"org.apache.struts:struts-el":"${strutsVersion}",
+		"org.apache.struts:struts-extras":"${strutsVersion}",
+		"org.apache.struts:struts-mailreader-dao":"${strutsVersion}",
+		"org.apache.struts:struts-scripting":"${strutsVersion}",
+		"org.apache.struts:struts-taglib":"${strutsVersion}",
+		"org.apache.struts:struts-tiles":"${strutsVersion}",
+		"javax.servlet:javax.servlet-api":"3.1.0",
+		"org.primefaces:primefaces":"3.2",
+		"org.richfaces.cdk:annotations":"${richfacesVersion}",
+		"org.richfaces.core:richfaces-core-impl":"${richfacesVersion}",
+		"org.richfaces.ui:richfaces-components-api":"${richfacesVersion}",
+		"org.richfaces.ui:richfaces-components-ui":"${richfacesVersion}",
+		"org.richfaces.core:richfaces-core-api":"${richfacesVersion}",
+		"org.glassfish.web:el-impl":"2.2.1-b05",
+		"org.apache.servicemix.bundles:org.apache.servicemix.bundles.xerces":"2.11.0_1",
+		"javax.annotation:javax.annotation-api":"1.2",
+		"javax.servlet.jsp.jstl:jstl-api":"1.2",
+		"org.glassfish.web:jstl-impl":"1.2",
+		"org.glassfish:javax.faces":"2.1.19",
+		"javax.validation:validation-api":"1.0.0.GA",
+		"cglib:cglib":"3.0",
+		"org.ow2.asm:asm-util":"4.0",
+		"org.jboss.spec.javax.xml.soap:jboss-saaj-api_1.3_spec":"1.0.1.Final",
+		"org.apache.directory.studio:org.apache.commons.logging":"1.1.3",
+		"org.jboss.spec.javax.xml.rpc:jboss-jaxrpc-api_1.1_spec":"1.0.1.Final",
+		"org.scala-lang:scala-library":"2.10.4",
+		"org.eclipse.birt.runtime.3_7_1:javax.wsdl":"1.5.1",
+		"axis:axis":"1.4",
+		"com.fasterxml.jackson.core:jackson-core":"2.9.6",
+		"com.fasterxml.jackson.core:jackson-annotations":"2.9.6",
+		"com.fasterxml.jackson.core:jackson-databind":"2.9.6",
+		"org.codehaus.jackson:jackson-mapper-asl":"1.9.13",
+		"org.ogce:xpp3":"1.1.6",
+		"org.atmosphere:atmosphere-compat-jbossweb":"2.0.0",
+		"com.google.code.gson:gson":"2.2",
+		"xml-apis:xml-apis":"1.4.01",
+		"com.googlecode.concurrentlinkedhashmap:concurrentlinkedhashmap-lru":"1.4",
+		"com.orientechnologies:orientdb-core":"${orientdbVersion}",
+		"com.orientechnologies:orientdb-object":"${orientdbVersion}",
+		"com.orientechnologies:orientdb-client":"${orientdbVersion}",
+		"fr.w3blog:zebra-zpl":"0.0.1",
+		"net.wimpi:telnetd-x":"2.1.1",
+		"javax:javaee-api":"6.0",
+		"org.jooq:jooq":"3.1.0",
+		"org.json:json":"20080701",		
+		"xerces:xercesImpl":"2.11.0",
+		"com.jayway.jsonpath:json-path":"0.9.1",
+		"org.mockito:mockito-all":"1.10.19",
+		"org.hamcrest:hamcrest-core":"1.3",
+		"org.hamcrest:hamcrest-library":"1.3",
+		"com.querydsl:querydsl-jpa":"${querydslVersion}",
+		"com.querydsl:querydsl-core":"${querydslVersion}",
+		"com.querydsl:querydsl-sql":"${querydslVersion}",
+		"com.querydsl:querydsl-apt":"${querydslVersion}",
+		"org.mockito:mockito-core":"2.8.47",
+		"com.h2database:h2":"1.4.196",
+		"org.assertj:assertj-core":"3.8.0",
+		"net.sf.jt400:jt400":"9.1",
+		"ec.com.kruger:tableau-connector":"2.3.0-RELEASE",
+		"io.socket:socket.io-client":"1.0.0",
+		"net.sourceforge.jexcelapi:jxl":"${jxlVersion}",
+		"org.codehaus.xfire:xfire-all":"${xfireVersion}",
+				
+		// Dependencies Credimax
+		"ec.com.smx.sic.credimax:credimax-integracion-ws-core":"${integracionWsCredimax}",
+		"ec.com.smx.sic.credimax:credimax-integracion-ws-cliente":"${integracionWsCredimax}",
+		// Dependencias teradata crm
+		"ec.com.smx.tcrm:tcrm-client":"${tcrmVersion}",
+		"ec.com.smx.tcrm:tcrm-core":"${tcrmVersion}",
+		"org.projectlombok:lombok":"${projectLombokVersion}",
+		"ec.com.kruger:fwk-utilitario-reporte":"${fwkUtilitarioReporte}",
+		"ec.com.kruger:fwk-utilitario-reporte-poi":"${fwkUtilitarioReporte}"
+		 
+  ]
+  
+  
+  
+}

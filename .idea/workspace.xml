@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43e896a4-fab9-44e7-bf8b-cd915675d9d6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="EncriptarPassword.calcularMedianteString" />
+    </enabled-run-configurations>
+  </component>
+  <component name="ProjectId" id="1TLL4nGnTyxdZwXuq0YmfccN53j" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.EncriptarPassword.validarPassword">
+    <configuration name="EncriptarPassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ec.com.smx.EncriptarPassword" />
+      <module name="proyectoVarios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ec.com.smx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EncriptarPassword.calcularMedianteString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proyectoVarios" />
+      <shortenClasspath name="MANIFEST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ec.com.smx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ec.com.smx" />
+      <option name="MAIN_CLASS_NAME" value="ec.com.smx.EncriptarPassword" />
+      <option name="METHOD_NAME" value="calcularMedianteString" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EncriptarPassword.validarPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proyectoVarios" />
+      <shortenClasspath name="MANIFEST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ec.com.smx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ec.com.smx" />
+      <option name="MAIN_CLASS_NAME" value="ec.com.smx.EncriptarPassword" />
+      <option name="METHOD_NAME" value="validarPassword" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <shortenClasspath name="NONE" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EncriptarPassword.validarPassword" />
+        <item itemvalue="JUnit.EncriptarPassword.calcularMedianteString" />
+        <item itemvalue="Application.EncriptarPassword" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43e896a4-fab9-44e7-bf8b-cd915675d9d6" name="Default Changelist" comment="" />
+      <created>1573234239837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573234239837</updated>
+    </task>
+    <servers />
+  </component>
+</project>

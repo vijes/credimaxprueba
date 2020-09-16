@@ -1,0 +1,224 @@
+?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+         <xs:element name="solicitud">
+              <xs:complexType>
+                     <xs:sequence>
+                            <xs:element name="infoSolicitante">
+                                   <xs:complexType>
+                                          <xs:sequence>
+                                                 <xs:element name="tipoIdentificacion" type="xs:string"></xs:element>
+                                                 <xs:element name="identificacion" type="xs:string"></xs:element>
+                                                 <xs:element name="primerNombre" type="xs:string"></xs:element>
+                                                 <xs:element name="segundoNombre" type="xs:string"></xs:element>
+                                                 <xs:element name="primerApellido" type="xs:string"></xs:element>
+                                                 <xs:element name="segundoApellido" type="xs:string"></xs:element>
+                                                 <xs:element name="fechaNacimiento" type="xs:date"></xs:element>
+                                                 <xs:element name="nacionalidad" type="xs:string"></xs:element>
+                                                 <xs:element name="montoSolicitado" type="xs:double"></xs:element>
+                                                 <xs:element name="genero" type="xs:string"></xs:element>
+                                                 <xs:element name="estadoCivil" type="xs:string"></xs:element>
+                                                 <xs:element name="origenIngresos" type="xs:string"></xs:element>
+                                                 <xs:element name="nivelEstudios" type="xs:string"></xs:element>
+                                                 <xs:element name="primerNombreConyuge" type="xs:string"></xs:element>
+                                                 <xs:element name="segundoNombreConyuge" type="xs:string"></xs:element>
+                                                 <xs:element name="primerApellidoConyuge" type="xs:string"></xs:element>
+                                                 <xs:element name="segundoApellidoConyuge" type="xs:string"></xs:element>
+                                                 <xs:element name="tipoIdentificacionConyuge" type="xs:string"></xs:element>
+                                                 <xs:element name="identificacionConyuge" type="xs:string"></xs:element>
+                                                 <xs:element name="email" type="xs:string"></xs:element>
+                                                 <xs:element name="actividadEconomica" type="xs:string"></xs:element>
+                                             </xs:sequence>
+                                      </xs:complexType>
+                               </xs:element>
+                            <xs:element name="domicilio">
+                                   <xs:complexType>
+                                          <xs:sequence>
+                                                 <xs:element name="provincia" type="xs:int"></xs:element>
+                                                 <xs:element name="canton" type="xs:int"></xs:element>
+                                                 <xs:element name="parroquia" type="xs:int"></xs:element>
+                                                 <xs:element name="barrio" type="xs:string"></xs:element>
+                                                 <xs:element name="callePrincipal" type="xs:string"></xs:element>
+                                                 <xs:element name="calleSecundaria" type="xs:string"></xs:element>
+                                                 <xs:element name="tipoDomicilio" type="xs:string"></xs:element>
+                                                 <xs:element name="numeroDomicilio" type="xs:string"></xs:element>
+                                                 <xs:element name="nombreEdificio" type="xs:string"></xs:element>
+                                                 <xs:element name="referenciaUbicacion" type="xs:string"></xs:element>
+                                                 <xs:element name="tipoVivienda" type="xs:string"></xs:element>
+                                                 <xs:element name="tiempoResidencia" type="xs:int"></xs:element>
+                                                 <xs:element name="telefonos">
+                                                        <xs:complexType>
+                                                               <xs:sequence>
+                                                                      <xs:element name="telefono" minOccurs="2" maxOccurs="unbounded">
+                                                                             <xs:complexType>
+                                                                                    <xs:sequence>
+                                                                                           <xs:element name="tipoTelefono" type="xs:string"></xs:element>
+                                                                                           <xs:element name="numero" type="xs:int"></xs:element>
+                                                                                           <xs:element name="extension"></xs:element>
+                                                                                       </xs:sequence>
+                                                                                </xs:complexType>
+                                                                         </xs:element>
+                                                                  </xs:sequence>
+                                                           </xs:complexType>
+                                                    </xs:element>
+                                             </xs:sequence>
+                                      </xs:complexType>
+                               </xs:element>
+                            <xs:element name="referenciasPersonales">
+                                   <xs:complexType>
+                                          <xs:sequence>
+                                                 <xs:element name="referenciaPersonal" minOccurs="2" maxOccurs="unbounded">
+                                                        <xs:complexType>
+                                                               <xs:sequence>
+                                                                      <xs:element name="identificacion" type="xs:int"></xs:element>
+                                                                      <xs:element name="primerNombre" type="xs:string"></xs:element>
+                                                                      <xs:element name="segundoNombre" type="xs:string"></xs:element>
+                                                                      <xs:element name="primerApellido" type="xs:string"></xs:element>
+                                                                      <xs:element name="segundoApellido" type="xs:string"></xs:element>
+                                                                      <xs:element name="relacion" type="xs:string"></xs:element>
+                                                                      <xs:element name="telefonos">
+                                                                             <xs:complexType>
+                                                                                    <xs:sequence>
+                                                                                           <xs:element name="telefono" minOccurs="1" maxOccurs="unbounded">
+                                                                                                  <xs:complexType>
+                                                                                                         <xs:sequence>
+                                                                                                                <xs:element name="tipoTelefono" type="xs:string"></xs:element>
+                                                                                                                <xs:element name="numero" type="xs:int"></xs:element>
+                                                                                                                <xs:element name="extension" type="xs:int"></xs:element>
+                                                                                                            </xs:sequence>
+                                                                                                     </xs:complexType>
+                                                                                              </xs:element>
+                                                                                       </xs:sequence>
+                                                                                </xs:complexType>
+                                                                         </xs:element>
+                                                                      <xs:element name="email" type="xs:string"></xs:element>
+                                                                  </xs:sequence>
+                                                           </xs:complexType>
+                                                    </xs:element>
+                                             </xs:sequence>
+                                      </xs:complexType>
+                               </xs:element>
+                            <xs:element name="infoLaboral">
+                                   <xs:complexType>
+                                          <xs:sequence>
+                                                 <xs:element name="dependiente" minOccurs="0" maxOccurs="1">
+                                                        <xs:complexType>
+                                                               <xs:sequence>
+                                                                      <xs:element name="nombreEmpresa" type="xs:string"></xs:element>
+                                                                      <xs:element name="actividadEmpresa" type="xs:string"></xs:element>
+                                                                      <xs:element name="cargoActual" type="xs:string"></xs:element>
+                                                                      <xs:element name="antiguedad" type="xs:int"></xs:element>
+                                                                      <xs:element name="callePrincipal" type="xs:string"></xs:element>
+                                                                      <xs:element name="calleSecundaria" type="xs:string"></xs:element>
+                                                                      <xs:element name="numeroDomicilio" type="xs:int"></xs:element>
+                                                                      <xs:element name="sector" type="xs:string"></xs:element>
+                                                                      <xs:element name="provincia" type="xs:int"></xs:element>
+                                                                      <xs:element name="ciudad" type="xs:int"></xs:element>
+                                                                      <xs:element name="nombreEdificio" type="xs:string"></xs:element>
+                                                                      <xs:element name="referenciaUbicacion" type="xs:string"></xs:element>
+                                                                      <xs:element name="telefonos">
+                                                                             <xs:complexType>
+                                                                                    <xs:sequence>
+                                                                                           <xs:element name="telefono" maxOccurs="unbounded">
+                                                                                                  <xs:complexType>
+                                                                                                         <xs:sequence>
+                                                                                                                <xs:element name="tipoTelefono" type="xs:string"></xs:element>
+                                                                                                                <xs:element name="numero" type="xs:int"></xs:element>
+                                                                                                                <xs:element name="extension" type="xs:int"></xs:element>
+                                                                                                            </xs:sequence>
+                                                                                                     </xs:complexType>
+                                                                                              </xs:element>
+                                                                                       </xs:sequence>
+                                                                                </xs:complexType>
+                                                                         </xs:element>
+                                                                      <xs:element name="sueldo" type="xs:double"></xs:element>
+                                                                      <xs:element name="comisiones" type="xs:double"></xs:element>
+                                                                      <xs:element name="otrosIngresos" type="xs:double"></xs:element>
+                                                                      <xs:element name="detalleOtrosIngresos" type="xs:string"></xs:element>
+                                                                      <xs:element name="totalIngresos" type="xs:double"></xs:element>
+                                                                      <xs:element name="deudaBancaria" type="xs:double"></xs:element>
+                                                                      <xs:element name="deudaComercial" type="xs:double"></xs:element>
+                                                                      <xs:element name="totalDeuda" type="xs:double"></xs:element>
+                                                                  </xs:sequence>
+                                                           </xs:complexType>
+                                                    </xs:element>
+                                                 <xs:element name="independiente" minOccurs="0" maxOccurs="1">
+                                                        <xs:complexType>
+                                                               <xs:sequence>
+                                                                      <xs:element name="ruc" type="xs:int"></xs:element>
+                                                                      <xs:element name="rise"></xs:element>
+                                                                      <xs:element name="profesion" type="xs:string"></xs:element>
+                                                                      <xs:element name="actividadNegocio" type="xs:string"></xs:element>
+                                                                      <xs:element name="tiempoEjerce" type="xs:int"></xs:element>
+                                                                      <xs:element name="numeroTrabajadores" type="xs:int"></xs:element>
+                                                                      <xs:element name="fechaIncio" type="xs:date"></xs:element>
+                                                                      <xs:element name="tiempoLocal" type="xs:int"></xs:element>
+                                                                      <xs:element name="tipoLocal" type="xs:string"></xs:element>
+                                                                      <xs:element name="provincia" type="xs:int"></xs:element>
+                                                                      <xs:element name="canton" type="xs:int"></xs:element>
+                                                                      <xs:element name="parroquia" type="xs:int"></xs:element>
+                                                                      <xs:element name="callePrincipal" type="xs:string"></xs:element>
+                                                                      <xs:element name="calleSecundaria" type="xs:string"></xs:element>
+                                                                      <xs:element name="numeroDomicilio" type="xs:string"></xs:element>
+                                                                      <xs:element name="sector" type="xs:string"></xs:element>
+                                                                      <xs:element name="nombreEdificio" type="xs:string"></xs:element>
+                                                                      <xs:element name="referenciaUbicacion" type="xs:string"></xs:element>
+                                                                      <xs:element name="telefonos">
+                                                                             <xs:complexType>
+                                                                                    <xs:sequence>
+                                                                                           <xs:element name="telefono" maxOccurs="unbounded">
+                                                                                                  <xs:complexType>
+                                                                                                         <xs:sequence>
+                                                                                                                <xs:element name="tipoTelefono" type="xs:string"></xs:element>
+                                                                                                                <xs:element name="numero" type="xs:int"></xs:element>
+                                                                                                                <xs:element name="extension"></xs:element>
+                                                                                                            </xs:sequence>
+                                                                                                     </xs:complexType>
+                                                                                              </xs:element>
+                                                                                       </xs:sequence>
+                                                                                </xs:complexType>
+                                                                         </xs:element>
+                                                                      <xs:element name="ventas" type="xs:double"></xs:element>
+                                                                      <xs:element name="compras" type="xs:double"></xs:element>
+                                                                      <xs:element name="otrosGastos" type="xs:double"></xs:element>
+                                                                      <xs:element name="deudaBancaria" type="xs:double"></xs:element>
+                                                                      <xs:element name="deudaComercial" type="xs:double"></xs:element>
+                                                                      <xs:element name="totalDeuda" type="xs:double"></xs:element>
+                                                                  </xs:sequence>
+                                                           </xs:complexType>
+                                                    </xs:element>
+                                                 <xs:element name="rentista" minOccurs="0" maxOccurs="1">
+                                                        <xs:complexType>
+                                                               <xs:sequence>
+                                                                      <xs:element name="rentas" type="xs:double"></xs:element>
+                                                                      <xs:element name="remesas" type="xs:double"></xs:element>
+                                                                      <xs:element name="otrosIngresos" type="xs:double"></xs:element>
+                                                                      <xs:element name="detalleOtrosIngresos" type="xs:string"></xs:element>
+                                                                      <xs:element name="totalIngresos" type="xs:double"></xs:element>
+                                                                      <xs:element name="deudaBancaria" type="xs:double"></xs:element>
+                                                                      <xs:element name="deudaComercial" type="xs:double"></xs:element>
+                                                                      <xs:element name="totalDeuda" type="xs:double"></xs:element>
+                                                                  </xs:sequence>
+                                                           </xs:complexType>
+                                                    </xs:element>
+                                             </xs:sequence>
+                                      </xs:complexType>
+                               </xs:element>
+                            <xs:element name="seguros">
+                                   <xs:complexType>
+                                          <xs:sequence>
+                                                 <xs:element name="seguro" minOccurs="0" maxOccurs="unbounded">
+                                                        <xs:complexType>
+                                                               <xs:sequence>
+                                                                      <xs:element name="tipoSeguro" type="xs:string"></xs:element>
+                                                                      <xs:element name="numeroCertificado" type="xs:string"></xs:element>
+                                                                  </xs:sequence>
+                                                           </xs:complexType>
+                                                    </xs:element>
+                                             </xs:sequence>
+                                      </xs:complexType>
+                               </xs:element>
+                        </xs:sequence>
+                     <xs:attribute name="version" type="xs:string"></xs:attribute>
+                 </xs:complexType>
+          </xs:element>
+   </xs:schema>
